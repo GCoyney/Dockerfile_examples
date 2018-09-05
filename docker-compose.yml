@@ -1,0 +1,15 @@
+---
+version: "3.5"
+services: 
+   java-hello-world:
+      build: Java  
+   python-hello-world:
+      build: Python
+   ruby-hello-world:
+      build: Ruby
+   node-hello-world:
+      build: Nodejs
+   groovy-hello-world:
+      build: Groovy
+...
+

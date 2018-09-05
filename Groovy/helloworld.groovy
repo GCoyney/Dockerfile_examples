@@ -1,2 +1,2 @@
-print "Hello Groovy World\n"
+print "Hello World!\n"
 
